@@ -1,0 +1,1 @@
+# Bitcoin Minetrix Token contract
